@@ -37,5 +37,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yojihan&show_icons=true&theme=tokyonight)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yojihan?theme=unicorn&font=Noto%20Sans%20Sharada)
+![LeetCode Stats](https://leetcard.jacoblin.cool/snowcat471?theme=unicorn&font=Noto%20Sans%20Sharada)
 
