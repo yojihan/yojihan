@@ -39,3 +39,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/snowcat471?theme=unicorn&font=Noto%20Sans%20Sharada)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yojihan)](https://solved.ac/yojihan)
